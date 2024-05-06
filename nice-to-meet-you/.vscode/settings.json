@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.sql": "sql",
+        "*.php": "php",
+        "*.blade.php": "blade",
+        "*.js": "javascript",
+        "*.py": "python",
+        "stdio.h": "c"
+    }
+}
